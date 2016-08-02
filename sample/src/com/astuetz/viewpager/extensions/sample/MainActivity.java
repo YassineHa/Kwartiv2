@@ -16,6 +16,7 @@
 
 package com.astuetz.viewpager.extensions.sample;
 
+import android.app.Activity;
 import android.graphics.Color;
 import android.graphics.drawable.ColorDrawable;
 import android.graphics.drawable.Drawable;
@@ -25,8 +26,13 @@ import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
+import android.support.v4.view.GravityCompat;
 import android.support.v4.view.ViewPager;
+import android.support.v4.widget.DrawerLayout;
 import android.support.v7.app.ActionBarActivity;
+import android.support.v7.app.ActionBarDrawerToggle;
+import android.support.v7.widget.LinearLayoutManager;
+import android.support.v7.widget.RecyclerView;
 import android.support.v7.widget.Toolbar;
 import android.util.TypedValue;
 import android.view.Menu;
@@ -54,12 +60,61 @@ public class MainActivity extends ActionBarActivity {
     private int currentColor;
     private SystemBarTintManager mTintManager;
 
+
+    //_________________drawer variables_________
+
+    private RecyclerView recyclerView;
+    private RecyclerView.LayoutManager layoutManager;
+    private NavDrawerAdapter adapterdr;
+
+    private DrawerLayout drawerLayout;
+    private ActionBarDrawerToggle drawerToggle;
+
+    private boolean isDrawerOpened = false;
+
+    private String[] titles = {"info Compte:" , "Hadj ali Yassine" , "yassine.hajali@gmail.com" };
+    private int[] icons = {R.drawable.icon_accessibility , R.drawable.icon_account , R.drawable.icon_mail };
+
+
+
+
+
+
+    //_________________****************________
+
+
+
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         ButterKnife.inject(this);
         setSupportActionBar(toolbar);
+        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+
+        //______________ drawer init________________
+
+        recyclerView = (RecyclerView) findViewById(R.id.recyclerView);
+
+        layoutManager = new LinearLayoutManager(this);
+        recyclerView.setLayoutManager(layoutManager);
+
+        adapterdr = new NavDrawerAdapter(titles , icons);
+        recyclerView.setAdapter(adapterdr);
+
+        drawerLayout = (DrawerLayout) findViewById(R.id.drawerLayout);
+        drawerToggle = new CustomDrawerToggle(this,drawerLayout,R.string.open , R.string.close);
+
+        drawerLayout.addDrawerListener(drawerToggle);
+        drawerToggle.syncState();
+
+
+        //________________********__________________
+
+
+
         // create our manager instance after the content view is set
         mTintManager = new SystemBarTintManager(this);
         // enable status bar tint
@@ -93,6 +148,15 @@ public class MainActivity extends ActionBarActivity {
             case R.id.action_contact:
                 QuickContactFragment.newInstance().show(getSupportFragmentManager(), "QuickContactFragment");
                 return true;
+            case android.R.id.home:
+
+                if (isDrawerOpened)
+                    drawerLayout.closeDrawers();
+                else
+                    drawerLayout.openDrawer(GravityCompat.START);
+
+
+
         }
         return super.onOptionsItemSelected(item);
     }
@@ -136,7 +200,7 @@ public class MainActivity extends ActionBarActivity {
 
     public class MyPagerAdapter extends FragmentPagerAdapter {
 
-        private final String[] TITLES = {"Mes Cartes", "Ajouter Une carte"};
+        private final String[] TITLES = {"Home"};
 
         public MyPagerAdapter(FragmentManager fm) {
             super(fm);
@@ -157,4 +221,42 @@ public class MainActivity extends ActionBarActivity {
             return SuperAwesomeCardFragment.newInstance(position);
         }
     }
+
+
+
+
+
+
+
+
+
+
+
+
+
+    class CustomDrawerToggle extends ActionBarDrawerToggle {
+
+        public CustomDrawerToggle(Activity activity, DrawerLayout drawerLayout, int openDrawerContentDescRes, int closeDrawerContentDescRes) {
+            super(activity, drawerLayout, openDrawerContentDescRes, closeDrawerContentDescRes);
+        }
+
+        @Override
+        public void onDrawerOpened(View drawerView) {
+            super.onDrawerOpened(drawerView);
+            isDrawerOpened = true;
+        }
+
+        @Override
+        public void onDrawerClosed(View drawerView) {
+            super.onDrawerClosed(drawerView);
+            isDrawerOpened = false;
+        }
+    }
+
+
+
+
+
+
+
 }
