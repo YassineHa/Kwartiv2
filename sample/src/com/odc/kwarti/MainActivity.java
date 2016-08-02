@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.astuetz.viewpager.extensions.sample;
+package com.odc.kwarti;
 
 import android.app.Activity;
 import android.graphics.Color;
@@ -40,7 +40,8 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.Toast;
 
-import com.astuetz.PagerSlidingTabStrip;
+import com.astuetz.viewpager.extensions.sample.R;
+import com.odc.PagerSlidingTabStrip;
 import com.readystatesoftware.systembartint.SystemBarTintManager;
 
 import butterknife.ButterKnife;

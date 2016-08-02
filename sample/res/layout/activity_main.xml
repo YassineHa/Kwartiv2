@@ -21,7 +21,7 @@
 
 
 
-        <com.astuetz.PagerSlidingTabStrip
+        <com.odc.PagerSlidingTabStrip
 
             android:id="@+id/tabs"
 

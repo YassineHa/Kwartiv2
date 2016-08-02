@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.astuetz;
+package com.odc;
 
 import android.annotation.TargetApi;
 import android.content.Context;

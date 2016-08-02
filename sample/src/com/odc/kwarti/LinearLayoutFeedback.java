@@ -1,4 +1,4 @@
-package com.astuetz.viewpager.extensions.sample;
+package com.odc.kwarti;
 
 import android.annotation.TargetApi;
 import android.content.Context;

@@ -1,9 +1,10 @@
-package com.astuetz.viewpager.extensions.sample;
+package com.odc.kwarti;
 
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 
+import com.astuetz.viewpager.extensions.sample.R;
 import com.parse.Parse;
 import com.parse.ParseObject;
 

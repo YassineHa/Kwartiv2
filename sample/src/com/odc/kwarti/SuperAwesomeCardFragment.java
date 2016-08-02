@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.astuetz.viewpager.extensions.sample;
+package com.odc.kwarti;
 
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
@@ -22,6 +22,8 @@ import android.support.v4.view.ViewCompat;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+
+import com.astuetz.viewpager.extensions.sample.R;
 
 import butterknife.ButterKnife;
 
