@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:fitsSystemWindows="true"
-    android:background="@color/blue"
+    android:background="@color/orange"
     tools:context="com.odc.kwarti.SplashScreen">
 
     <android.support.design.widget.AppBarLayout
@@ -29,17 +29,7 @@
             android:id="@+id/imageView1"
             android:layout_width="300dp"
             android:layout_height="300dp"
-            android:src="@drawable/logokwarti2" />
-
-
+            android:src="@drawable/logo_kwarti" />
     </LinearLayout>
-
-
-
-
-
-
-
-
 
 </android.support.design.widget.CoordinatorLayout>
