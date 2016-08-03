@@ -1,0 +1,398 @@
+[
+    {
+        "outputFile": "D:\\ODC\\update03_08\\KwartiV12016\\sample\\build\\intermediates\\res\\merged\\debug\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 180
+                },
+                "from": {
+                    "file": "D:\\ODC\\update03_08\\KwartiV12016\\sample\\res\\values-v11\\themes.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endLine": 4,
+                        "endColumn": 12,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 185,
+                    "endLine": 10,
+                    "endColumn": 12,
+                    "endOffset": 599
+                },
+                "from": {
+                    "file": "D:\\ODC\\update03_08\\KwartiV12016\\sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 301,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 715
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 604,
+                    "endLine": 16,
+                    "endColumn": 12,
+                    "endOffset": 1024
+                },
+                "from": {
+                    "file": "D:\\ODC\\update03_08\\KwartiV12016\\sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 720,
+                        "endLine": 15,
+                        "endColumn": 12,
+                        "endOffset": 1140
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1029,
+                    "endLine": 22,
+                    "endColumn": 12,
+                    "endOffset": 1452
+                },
+                "from": {
+                    "file": "D:\\ODC\\update03_08\\KwartiV12016\\sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1145,
+                        "endLine": 21,
+                        "endColumn": 12,
+                        "endOffset": 1568
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1457,
+                    "endLine": 28,
+                    "endColumn": 12,
+                    "endOffset": 1878
+                },
+                "from": {
+                    "file": "D:\\ODC\\update03_08\\KwartiV12016\\sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1573,
+                        "endLine": 27,
+                        "endColumn": 12,
+                        "endOffset": 1994
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1883,
+                    "endLine": 34,
+                    "endColumn": 12,
+                    "endOffset": 2307
+                },
+                "from": {
+                    "file": "D:\\ODC\\update03_08\\KwartiV12016\\sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1999,
+                        "endLine": 33,
+                        "endColumn": 12,
+                        "endOffset": 2423
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 2312,
+                    "endLine": 40,
+                    "endColumn": 12,
+                    "endOffset": 2732
+                },
+                "from": {
+                    "file": "D:\\ODC\\update03_08\\KwartiV12016\\sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 2428,
+                        "endLine": 39,
+                        "endColumn": 12,
+                        "endOffset": 2848
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 2737,
+                    "endColumn": 88,
+                    "endOffset": 2821
+                },
+                "from": {
+                    "file": "D:\\ODC\\update03_08\\KwartiV12016\\sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 3094,
+                        "endColumn": 88,
+                        "endOffset": 3178
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 2826,
+                    "endColumn": 100,
+                    "endOffset": 2922
+                },
+                "from": {
+                    "file": "D:\\ODC\\update03_08\\KwartiV12016\\sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 3183,
+                        "endColumn": 100,
+                        "endOffset": 3279
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 2927,
+                    "endLine": 47,
+                    "endColumn": 12,
+                    "endOffset": 3330
+                },
+                "from": {
+                    "file": "D:\\ODC\\update03_08\\KwartiV12016\\sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 3284,
+                        "endLine": 48,
+                        "endColumn": 12,
+                        "endOffset": 3687
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 3335,
+                    "endLine": 52,
+                    "endColumn": 12,
+                    "endOffset": 3750
+                },
+                "from": {
+                    "file": "D:\\ODC\\update03_08\\KwartiV12016\\sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 3692,
+                        "endLine": 53,
+                        "endColumn": 12,
+                        "endOffset": 4107
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 3755,
+                    "endLine": 54,
+                    "endColumn": 12,
+                    "endOffset": 3857
+                },
+                "from": {
+                    "file": "D:\\ODC\\update03_08\\KwartiV12016\\sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 4353,
+                        "endLine": 57,
+                        "endColumn": 12,
+                        "endOffset": 4455
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 3862,
+                    "endLine": 56,
+                    "endColumn": 12,
+                    "endOffset": 3986
+                },
+                "from": {
+                    "file": "D:\\ODC\\update03_08\\KwartiV12016\\sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 4460,
+                        "endLine": 59,
+                        "endColumn": 12,
+                        "endOffset": 4584
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 3991,
+                    "endLine": 61,
+                    "endColumn": 12,
+                    "endOffset": 4350
+                },
+                "from": {
+                    "file": "D:\\ODC\\update03_08\\KwartiV12016\\sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 4589,
+                        "endLine": 64,
+                        "endColumn": 12,
+                        "endOffset": 4948
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 4355,
+                    "endLine": 64,
+                    "endColumn": 12,
+                    "endOffset": 4498
+                },
+                "from": {
+                    "file": "D:\\ODC\\update03_08\\KwartiV12016\\sample\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endLine": 5,
+                        "endColumn": 12,
+                        "endOffset": 199
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 4503,
+                    "endColumn": 70,
+                    "endOffset": 4569
+                },
+                "from": {
+                    "file": "D:\\ODC\\update03_08\\KwartiV12016\\sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 4,
+                        "startOffset": 5194,
+                        "endColumn": 70,
+                        "endOffset": 5260
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 4574,
+                    "endColumn": 82,
+                    "endOffset": 4652
+                },
+                "from": {
+                    "file": "D:\\ODC\\update03_08\\KwartiV12016\\sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 4,
+                        "startOffset": 5265,
+                        "endColumn": 82,
+                        "endOffset": 5343
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 4657,
+                    "endLine": 117,
+                    "endColumn": 12,
+                    "endOffset": 8401
+                },
+                "from": {
+                    "file": "D:\\ODC\\update03_08\\KwartiV12016\\sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 4,
+                        "startOffset": 5348,
+                        "endLine": 119,
+                        "endColumn": 12,
+                        "endOffset": 9092
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 8406,
+                    "endLine": 169,
+                    "endColumn": 12,
+                    "endOffset": 12290
+                },
+                "from": {
+                    "file": "D:\\ODC\\update03_08\\KwartiV12016\\sample\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 120,
+                        "startColumn": 4,
+                        "startOffset": 9097,
+                        "endLine": 171,
+                        "endColumn": 12,
+                        "endOffset": 12981
+                    }
+                }
+            }
+        ]
+    }
+]

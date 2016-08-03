@@ -40,7 +40,6 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.Toast;
 
-import com.odc.kwarti.R;
 import com.odc.PagerSlidingTabStrip;
 import com.readystatesoftware.systembartint.SystemBarTintManager;
 
@@ -127,7 +126,7 @@ public class MainActivity extends ActionBarActivity {
                 .getDisplayMetrics());
         pager.setPageMargin(pageMargin);
         pager.setCurrentItem(1);
-        changeColor(getResources().getColor(R.color.orange));
+        changeColor(getResources().getColor(R.color.blue));
 
         tabs.setOnTabReselectedListener(new PagerSlidingTabStrip.OnTabReselectedListener() {
             @Override

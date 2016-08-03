@@ -1,0 +1,329 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\ODC\update03_08\KwartiV12016\sample\AndroidManifest.xml:2:1-53:12
+	package
+		ADDED from D:\ODC\update03_08\KwartiV12016\sample\AndroidManifest.xml:3:5-29
+		INJECTED from D:\ODC\update03_08\KwartiV12016\sample\AndroidManifest.xml
+		INJECTED from D:\ODC\update03_08\KwartiV12016\sample\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\ODC\update03_08\KwartiV12016\sample\AndroidManifest.xml
+		INJECTED from D:\ODC\update03_08\KwartiV12016\sample\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\ODC\update03_08\KwartiV12016\sample\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from D:\ODC\update03_08\KwartiV12016\sample\AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from D:\ODC\update03_08\KwartiV12016\sample\AndroidManifest.xml:6:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from D:\ODC\update03_08\KwartiV12016\sample\AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from D:\ODC\update03_08\KwartiV12016\sample\AndroidManifest.xml:7:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from D:\ODC\update03_08\KwartiV12016\sample\AndroidManifest.xml:8:5-72
+	android:name
+		ADDED from D:\ODC\update03_08\KwartiV12016\sample\AndroidManifest.xml:8:22-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\ODC\update03_08\KwartiV12016\sample\AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from D:\ODC\update03_08\KwartiV12016\sample\AndroidManifest.xml:9:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\ODC\update03_08\KwartiV12016\sample\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from D:\ODC\update03_08\KwartiV12016\sample\AndroidManifest.xml:10:22-76
+application
+ADDED from D:\ODC\update03_08\KwartiV12016\sample\AndroidManifest.xml:12:5-51:19
+MERGED from [com.jpardogo.materialtabstrip:library:1.1.0] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.jpardogo.materialtabstrip\library\1.1.0\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-v4:23.4.0] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.2.1] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:22.2.1] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:22.2.1] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.android.support\design\22.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.2.1] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-auth:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.0.2\AndroidManifest.xml:20:5-21:19
+MERGED from [com.google.android.gms:play-services-base:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.4.0] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.4.0] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.4.0] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.4.0] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.4.0] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-auth-common:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.0.2\AndroidManifest.xml:20:5-21:19
+MERGED from [com.google.android.gms:play-services-base:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.4.0] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.4.0] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.4.0] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.4.0] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.4.0] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.4.0] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.4.0] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.4.0] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.4.0] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.4.0] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.4.0] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.4.0] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.4.0] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.4.0] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.4.0] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.4.0] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.4.0] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.4.0] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.4.0] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.4.0] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from D:\ODC\update03_08\KwartiV12016\sample\AndroidManifest.xml:15:9-41
+	android:allowBackup
+		ADDED from D:\ODC\update03_08\KwartiV12016\sample\AndroidManifest.xml:13:9-35
+	android:icon
+		ADDED from D:\ODC\update03_08\KwartiV12016\sample\AndroidManifest.xml:14:9-45
+	android:theme
+		ADDED from D:\ODC\update03_08\KwartiV12016\sample\AndroidManifest.xml:16:9-40
+activity#com.odc.kwarti.MainActivity
+ADDED from D:\ODC\update03_08\KwartiV12016\sample\AndroidManifest.xml:17:9-19:48
+	android:label
+		ADDED from D:\ODC\update03_08\KwartiV12016\sample\AndroidManifest.xml:19:13-45
+	android:name
+		ADDED from D:\ODC\update03_08\KwartiV12016\sample\AndroidManifest.xml:18:13-55
+activity#com.odc.kwarti.SplashScreen
+ADDED from D:\ODC\update03_08\KwartiV12016\sample\AndroidManifest.xml:20:9-32:20
+	android:label
+		ADDED from D:\ODC\update03_08\KwartiV12016\sample\AndroidManifest.xml:22:13-65
+	android:theme
+		ADDED from D:\ODC\update03_08\KwartiV12016\sample\AndroidManifest.xml:23:13-44
+	android:name
+		ADDED from D:\ODC\update03_08\KwartiV12016\sample\AndroidManifest.xml:21:13-55
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\ODC\update03_08\KwartiV12016\sample\AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from D:\ODC\update03_08\KwartiV12016\sample\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from D:\ODC\update03_08\KwartiV12016\sample\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\ODC\update03_08\KwartiV12016\sample\AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from D:\ODC\update03_08\KwartiV12016\sample\AndroidManifest.xml:28:27-74
+activity#com.odc.kwarti.LoginActivity
+ADDED from D:\ODC\update03_08\KwartiV12016\sample\AndroidManifest.xml:33:9-37:20
+	android:label
+		ADDED from D:\ODC\update03_08\KwartiV12016\sample\AndroidManifest.xml:35:13-57
+	android:name
+		ADDED from D:\ODC\update03_08\KwartiV12016\sample\AndroidManifest.xml:34:13-56
+activity#com.odc.kwarti.Main2Activity
+ADDED from D:\ODC\update03_08\KwartiV12016\sample\AndroidManifest.xml:38:9-41:56
+	android:label
+		ADDED from D:\ODC\update03_08\KwartiV12016\sample\AndroidManifest.xml:40:13-57
+	android:theme
+		ADDED from D:\ODC\update03_08\KwartiV12016\sample\AndroidManifest.xml:41:13-44
+	android:name
+		ADDED from D:\ODC\update03_08\KwartiV12016\sample\AndroidManifest.xml:39:13-56
+activity#com.odc.kwarti.SignActivity
+ADDED from D:\ODC\update03_08\KwartiV12016\sample\AndroidManifest.xml:43:9-46:56
+	android:label
+		ADDED from D:\ODC\update03_08\KwartiV12016\sample\AndroidManifest.xml:45:13-57
+	android:theme
+		ADDED from D:\ODC\update03_08\KwartiV12016\sample\AndroidManifest.xml:46:13-44
+	android:name
+		ADDED from D:\ODC\update03_08\KwartiV12016\sample\AndroidManifest.xml:44:13-55
+activity#com.odc.kwarti.ResetPasswordActivity
+ADDED from D:\ODC\update03_08\KwartiV12016\sample\AndroidManifest.xml:47:9-50:56
+	android:label
+		ADDED from D:\ODC\update03_08\KwartiV12016\sample\AndroidManifest.xml:49:13-57
+	android:theme
+		ADDED from D:\ODC\update03_08\KwartiV12016\sample\AndroidManifest.xml:50:13-44
+	android:name
+		ADDED from D:\ODC\update03_08\KwartiV12016\sample\AndroidManifest.xml:48:13-64
+uses-sdk
+INJECTED from D:\ODC\update03_08\KwartiV12016\sample\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.jpardogo.materialtabstrip:library:1.1.0] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.jpardogo.materialtabstrip\library\1.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:23.4.0] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:22.2.1] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:22.2.1] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:22.2.1] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.android.support\design\22.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:22.2.1] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-auth:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.0.2\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.4.0] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-common:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.4.0] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.4.0] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.4.0] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.4.0] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-auth-common:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.0.2\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.4.0] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-common:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.4.0] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.4.0] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.4.0] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.4.0] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-auth-module:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.4.0] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-common:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.4.0] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.4.0] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.4.0] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.4.0] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-common:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.4.0] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.4.0] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-auth-module:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.4.0] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-common:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.4.0] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.4.0] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.4.0] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.4.0] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-common:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.4.0] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.4.0] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.4.0] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from D:\ODC\update03_08\KwartiV12016\sample\AndroidManifest.xml
+		INJECTED from D:\ODC\update03_08\KwartiV12016\sample\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\ODC\update03_08\KwartiV12016\sample\AndroidManifest.xml
+		INJECTED from D:\ODC\update03_08\KwartiV12016\sample\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\AndroidManifest.xml:20:9-22:45
+MERGED from [com.google.android.gms:play-services-base:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\AndroidManifest.xml:20:9-22:45
+MERGED from [com.google.android.gms:play-services-base:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\AndroidManifest.xml:20:9-22:45
+MERGED from [com.google.android.gms:play-services-base:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:22:13-58
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:7:9-11:39
+MERGED from [com.google.firebase:firebase-common:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:7:9-11:39
+MERGED from [com.google.firebase:firebase-common:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:7:9-11:39
+MERGED from [com.google.firebase:firebase-common:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:7:9-11:39
+MERGED from [com.google.firebase:firebase-common:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:7:9-11:39
+MERGED from [com.google.firebase:firebase-common:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:7:9-11:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:8:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:10:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:11:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.0.2] D:\ODC\update03_08\KwartiV12016\sample\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:9:13-58
