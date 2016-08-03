@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.astuetz.viewpager.extensions.sample">
+    package="com.odc.kwarti">
 
     <!-- To auto-complete the email text field in the login form with the user's emails -->
     <uses-permission android:name="android.permission.GET_ACCOUNTS" />
@@ -37,6 +37,15 @@
         </activity>
         <activity
             android:name="com.odc.kwarti.Main2Activity"
+            android:label="@string/title_activity_main2"
+            android:theme="@style/AppTheme"></activity>
+
+        <activity
+            android:name="com.odc.kwarti.SignActivity"
+            android:label="@string/title_activity_main2"
+            android:theme="@style/AppTheme"></activity>
+        <activity
+            android:name="com.odc.kwarti.ResetPasswordActivity"
             android:label="@string/title_activity_main2"
             android:theme="@style/AppTheme"></activity>
     </application>

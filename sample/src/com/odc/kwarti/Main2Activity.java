@@ -7,7 +7,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.View;
 
-import com.astuetz.viewpager.extensions.sample.R;
+import com.odc.kwarti.R;
 
 public class Main2Activity extends AppCompatActivity {
 

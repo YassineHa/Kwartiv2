@@ -7,7 +7,6 @@ repositories {
 
 
 dependencies {
-    compile 'com.google.gms:google-services:3.0.0'
     compile project(':library')
     compile 'com.android.support:appcompat-v7:22.2.1'
     compile 'com.android.support:cardview-v7:22.2.1'
@@ -18,28 +17,25 @@ dependencies {
     compile 'com.parse.bolts:bolts-android:1.+'
     compile 'com.parse:parse-android:1.+'
     compile 'com.android.support:recyclerview-v7:23.+'
+    compile "com.google.firebase:firebase-auth:9.0.2"
+
 }
 
 android {
     compileSdkVersion Integer.parseInt(project.ANDROID_BUILD_TARGET_SDK_VERSION)
     buildToolsVersion project.ANDROID_BUILD_TOOLS_VERSION
-
     defaultConfig {
         minSdkVersion Integer.parseInt(project.ANDROID_BUILD_MIN_SDK_VERSION)
         targetSdkVersion Integer.parseInt(project.ANDROID_BUILD_TARGET_SDK_VERSION)
-
         versionName project.SAMPLE_VERSION_NAME
-        versionCode Integer.parseInt(project.SAMPLE_VERSION_CODE)
+        applicationId 'com.odc.kwarti'
     }
-
     signingConfigs { release }
-
     buildTypes {
         release {
             signingConfig signingConfigs.release
         }
     }
-
     sourceSets {
         main {
             manifest.srcFile 'AndroidManifest.xml'
@@ -47,11 +43,12 @@ android {
             res.srcDirs = ['res']
         }
     }
-
     android {
         lintOptions {
             abortOnError false
         }
+    }
+    productFlavors {
     }
 }
 
@@ -72,3 +69,4 @@ if (propFile.exists()) {
 } else {
     android.buildTypes.release.signingConfig = null
 }
+

@@ -40,7 +40,7 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.Toast;
 
-import com.astuetz.viewpager.extensions.sample.R;
+import com.odc.kwarti.R;
 import com.odc.PagerSlidingTabStrip;
 import com.readystatesoftware.systembartint.SystemBarTintManager;
 

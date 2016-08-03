@@ -4,7 +4,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 
-import com.astuetz.viewpager.extensions.sample.R;
+import com.odc.kwarti.R;
 import com.parse.Parse;
 import com.parse.ParseObject;
 

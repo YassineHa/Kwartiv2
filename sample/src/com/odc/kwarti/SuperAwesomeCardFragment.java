@@ -23,7 +23,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.astuetz.viewpager.extensions.sample.R;
+import com.odc.kwarti.R;
 
 import butterknife.ButterKnife;
 

@@ -16,7 +16,7 @@ import android.view.Window;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.astuetz.viewpager.extensions.sample.R;
+import com.odc.kwarti.R;
 import com.odc.PagerSlidingTabStrip;
 
 import static com.odc.PagerSlidingTabStrip.CustomTabProvider;

@@ -7,7 +7,7 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.astuetz.viewpager.extensions.sample.R;
+import com.odc.kwarti.R;
 
 /**
  * Created by student on 2/3/16.
