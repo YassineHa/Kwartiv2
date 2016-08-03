@@ -1,5 +1,6 @@
 apply plugin: 'com.android.application'
 
+
 repositories {
     maven { url "https://oss.sonatype.org/content/repositories/snapshots/" }
     mavenCentral()
@@ -7,6 +8,8 @@ repositories {
 
 
 dependencies {
+
+    compile "com.google.firebase:firebase-auth:9.0.2"
     compile 'com.google.gms:google-services:3.0.0'
     compile project(':library')
     compile 'com.android.support:appcompat-v7:22.2.1'
